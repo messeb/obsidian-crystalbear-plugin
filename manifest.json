@@ -1,0 +1,9 @@
+{
+	"id": "crystalbear",
+	"name": "CrystalBear",
+	"version": "1.0.0",
+	"minAppVersion": "1.8.0",
+	"description": "Render Jira issues, epics, and creator views inline in your notes",
+	"author": "messeb",
+	"isDesktopOnly": false
+}
