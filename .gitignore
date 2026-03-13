@@ -1,0 +1,25 @@
+# vscode
+.vscode
+
+# Intellij
+*.iml
+.idea
+
+# node
+node_modules
+
+# pnpm
+pnpm-debug.log*
+
+# Build artifacts
+main.js
+
+# Exclude sourcemaps
+*.map
+*.tsbuildinfo
+
+# obsidian
+data.json
+
+# Exclude macOS Finder (System Explorer) View States
+.DS_Store
